@@ -3,9 +3,9 @@ Will generate a list of players higher ranked than the player specificed into a 
 
 
 Required:
-Python 3
-pandas Python Library
-osu! account
+-Python 3
+-pandas Python Library
+-osu! account
 
 
 Steps to use this file:
